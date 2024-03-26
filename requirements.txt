@@ -1,0 +1,3 @@
+pyaudio #sudo app install portaudio19-devp
+SpeechRecognition
+setuptools
